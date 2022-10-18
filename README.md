@@ -11,6 +11,8 @@ Iako odradjena u konzoli, aplikacija u potpunosti simulira rad komentara na soci
 - Rangiranje po broju poena
 - Rangiranje celih sekcija po broju poena
 
+Projekat koristi strukture podataka i funkcije iz C++ STL biblioteke (vector, iterator...).
+
 `ENG`
 This simple console application combines `inorder` and `preorder` traversals of **n-ary trees** on the example of a simple comment section.
 Although done in the console, the application fully simulates the work of comments on social networks:
@@ -20,3 +22,5 @@ Although done in the console, the application fully simulates the work of commen
 - 'Like' system - a system of reacting to a post/comment by adding points to the comment. Negative points are also allowed
 - Ranking by number of points
 - Ranking of entire sections by number of points
+
+Project uses data structures and functions from C++ STL (vector, iterator...).
