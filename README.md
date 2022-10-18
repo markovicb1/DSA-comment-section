@@ -24,3 +24,9 @@ Although done in the console, the application fully simulates the work of commen
 - Ranking of entire sections by number of points
 
 Project uses data structures and functions from C++ STL (vector, iterator...).
+
+## Future commits - job to be done
+
+Several things should be added:
+- Change C-like errors handling with C++ Exceptions **(high priority)**
+- Add references: one comment from one section can have references to other comments from different sections
