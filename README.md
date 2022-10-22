@@ -25,7 +25,7 @@ Although done in the console, the application fully simulates the work of commen
 
 Project uses data structures and functions from C++ STL (vector, iterator...).
 
-## Future commits - job to be done
+# Future changes
 
 Several things should be added:
 - Change C-like errors handling with C++ Exceptions **(high priority)**
